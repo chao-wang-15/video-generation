@@ -1,6 +1,6 @@
 # video-generation-from-still-images
 
-The code here are based on and adapated from [1].
+The code here are based on and adapted from [1].
 
 The video datasets come from the moments in time dataset [2].
 
